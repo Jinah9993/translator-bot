@@ -13,7 +13,8 @@ I just wanted to have a bot that saves me from translating conversations all the
   `.안녕하세요` → Translated: `Hello`
 - Keeps things clean by deleting the original message after translating.
 
-![Bot Example](https://github.com/user-attachments/assets/68835343-1ce0-439b-9326-a75127a86cb2)
+![image](https://github.com/user-attachments/assets/a0797dda-2717-47f4-b785-d625ebf218fb)
+
 
 ---
 
